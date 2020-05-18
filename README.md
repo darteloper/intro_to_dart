@@ -1,4 +1,1 @@
-A simple command-line application.
-
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+[![N|Solid](https://miro.medium.com/max/2363/1*1PWxUhVJMuBIB0DLY4Seqg.png)](https://nodesource.com/products/nsolid)

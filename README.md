@@ -4,6 +4,6 @@
 
 Dart is the programming language for Flutter, Google's UI toolkit for building beautiful, natively compiled mobile, web, and desktop apps from a single codebase.
 
-## Instructions
+## About Intro to Dart
 
-* [Install Dart SDK](https://dart.dev/get-dart)
+This repository introduces you to Dart with a focus on features that Java developers might not expect. You can write Dart functions in 1 minute, scripts in 5 minutes and applications in 10 minutes!

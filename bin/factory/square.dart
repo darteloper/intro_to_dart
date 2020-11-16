@@ -1,8 +1,7 @@
 import 'dart:math';
 import 'shape.dart';
 
-class Square implements Shape{
-
+class Square implements Shape {
   final num side;
 
   Square(this.side);

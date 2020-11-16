@@ -1,8 +1,7 @@
 import 'circle.dart';
 import 'square.dart';
 
-abstract class Shape{
-
+abstract class Shape {
   num get area;
 
   factory Shape(String type) {
@@ -10,5 +9,4 @@ abstract class Shape{
     if (type == 'square') return Square(2);
     throw 'Can\'t create $type.';
   }
-
 }
